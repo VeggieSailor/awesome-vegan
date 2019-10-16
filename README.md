@@ -11,6 +11,7 @@ Veganism is the practice of abstaining from the use of animal products, particul
  - [Tools](#tools)
  - [Games](#games)
  - [Youtube](#youtube-channels)
+ - [Animal Rights](#animal-rights)
 
 ## Open Data Platforms
 
@@ -34,6 +35,11 @@ Veganism is the practice of abstaining from the use of animal products, particul
 * [Vegan Gains](https://www.youtube.com/channel/UCr2eKhGzPhN5RPVk5dd5o3g) - A highly political vegan bodybuilding / fitness youtuber.
 * [Infinite Waters (Diving Deep)](https://www.youtube.com/user/Kemetprince1) - Well being youtuber focusing on several things, including meditation and motivational speaking
 
+## Animal Rights
+
+* [Animal Equality](https://animalequality.org/) - International organization working with society, governments, and companies to end cruelty to farmed animals.
+* [PETA](https://www.peta.org/) - People for the Ethical Treatment of Animals.
+* [Viva!](https://www.viva.org.uk/) - Viva! is a British animal rights group, which focuses on promoting veganism.
 
 ## License
 
