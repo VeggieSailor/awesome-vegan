@@ -10,6 +10,7 @@ Veganism is the practice of abstaining from the use of animal products, particul
  - [Mobile Apps](#mobile-apps)
  - [Tools](#tools)
  - [Games](#games)
+ - [Animal Rights](#animal-rights)
 
 ## Open Data Platforms
 
@@ -28,6 +29,11 @@ Veganism is the practice of abstaining from the use of animal products, particul
 
 * [VeganOption](https://github.com/squeek502/VeganOption) - A Minecraft mod that seeks to add vegan alternatives to all Minecraft mob/animal products.
 
+## Animal Rights
+
+* [Animal Equality](https://animalequality.org/) - International organization working with society, governments, and companies to end cruelty to farmed animals.
+* [PETA](https://www.peta.org/) - People for the Ethical Treatment of Animals.
+* [Viva!](https://www.viva.org.uk/) - Viva! is a British animal rights group, which focuses on promoting veganism.
 
 ## License
 
