@@ -10,6 +10,7 @@ Veganism is the practice of abstaining from the use of animal products, particul
  - [Mobile Apps](#mobile-apps)
  - [Tools](#tools)
  - [Games](#games)
+ - [Youtube](#youtube-channels)
 
 ## Open Data Platforms
 
@@ -27,6 +28,11 @@ Veganism is the practice of abstaining from the use of animal products, particul
 ## Games
 
 * [VeganOption](https://github.com/squeek502/VeganOption) - A Minecraft mod that seeks to add vegan alternatives to all Minecraft mob/animal products.
+
+## Youtube Channels
+
+* [Vegan Gains](https://www.youtube.com/channel/UCr2eKhGzPhN5RPVk5dd5o3g) - A highly political vegan bodybuilding / fitness youtuber.
+* [Infinite Waters (Diving Deep)](https://www.youtube.com/user/Kemetprince1) - Well being youtuber focusing on several things, including meditation and motivational speaking
 
 
 ## License
