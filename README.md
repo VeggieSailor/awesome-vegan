@@ -6,12 +6,22 @@ Veganism is the practice of abstaining from the use of animal products, particul
 
 ## Contents
 
+ - [Animal Rights](#animal-rights)
  - [Games](#games)
  - [Guides](#guides)
  - [Mobile Apps](#mobile-apps)
  - [Open Data Platforms](#open-data-platforms)
  - [Tools](#tools)
- - [Youtube Channels](#youtube-channels)
+ - [Youtube](#youtube-channels)
+
+## Animal Rights
+
+* [Animal Equality](https://animalequality.org/) - International organization working with society, governments, and companies to end cruelty to farmed animals.
+* [Animal Rebellion](http://www.animalrebellion.org/) - Animal rights sect of Extinction Rebellion.
+* [Mercy for Animals](https://mercyforanimals.org/) - World’s Leading Farmed Animal Rights and Vegan Advocacy Organization.
+* [PETA](https://www.peta.org/) - People for the Ethical Treatment of Animals.
+* [The Vegan Society](https://www.vegansociety.com/) - The Vegan Society is a registered UK charity and the oldest vegan society in the world.
+* [Viva!](https://www.viva.org.uk/) - Viva! is a British animal rights group, which focuses on promoting veganism.
 
 ## Games
 
@@ -19,10 +29,8 @@ Veganism is the practice of abstaining from the use of animal products, particul
 
 ## Guides
 * [Plant Based News](https://www.plantbasednews.org/)
-* [The Vegan Society](https://www.vegansociety.com)
 * [Veganuary](https://www.veganuary.com/starter-kit/)
 * [Vegan.com](https://www.vegan.com/ultimate-vegan-guide/)
-* [Viva!](https://www.viva.org.uk/)
 
 ## Mobile Apps
  
@@ -44,7 +52,6 @@ Veganism is the practice of abstaining from the use of animal products, particul
 * [Jamie Oliver](https://www.jamieoliver.com/recipes/category/special-diets/vegan/)
 * [Quorn](https://www.quorn.co.uk/recipes/vegan-recipes)
 * [So Vegan](https://www.wearesovegan.com/)
-* [The Vegan Society](https://www.vegansociety.com/resources/recipes)
 * [Upton's Naturals](https://www.uptonsnaturals.com/recipes)
 * [Vegan Life](https://www.veganlifemag.com/vegan-recipes/)
 * [Wicked Healthy](https://wickedhealthyfood.com/recipes/)
@@ -55,13 +62,15 @@ Veganism is the practice of abstaining from the use of animal products, particul
 
 ## Youtube Channels
 
-* [Avant Garde Vegan](https://www.youtube.com/channel/UCF-ACPYNN0oXD4ihS5mbbmw)
-* [Earthling Ed](https://www.youtube.com/channel/UCVRrGAcUc7cblUzOhI1KfFg)
-* [Hench Herbivore](https://www.youtube.com/channel/UC2ZWX3GJfAIeRFWN91t09ww)
-* [James Aspey](https://www.youtube.com/channel/UCcKFPLxaWvKMwbjd5GjhzKg)
-* [Joey Carbstrong](https://www.youtube.com/channel/UCG6usHVNuRbexyisxE27nDw)
-* [Matt Pritchard](https://www.youtube.com/channel/UCsTNEhZlO8lM4RUAqc4YkYg)
-* [So Vegan](https://www.youtube.com/channel/UCbtL081gMwgoxn3Oz76PyBw)
+* [Avant Garde Vegan](https://www.youtube.com/channel/UCF-ACPYNN0oXD4ihS5mbbmw) - Vegan chef.
+* [Earthling Ed](https://www.youtube.com/channel/UCVRrGAcUc7cblUzOhI1KfFg) - Vegan activist.
+* [Hench Herbivore](https://www.youtube.com/channel/UC2ZWX3GJfAIeRFWN91t09ww) - Vegan bodybuilding / fitness youtuber.
+* [Infinite Waters (Diving Deep)](https://www.youtube.com/user/Kemetprince1) - Well being youtuber focusing on several things, including meditation and motivational speaking
+* [James Aspey](https://www.youtube.com/channel/UCcKFPLxaWvKMwbjd5GjhzKg) - Vegan activist.
+* [Joey Carbstrong](https://www.youtube.com/channel/UCG6usHVNuRbexyisxE27nDw) - Vegan activist.
+* [Matt Pritchard](https://www.youtube.com/channel/UCsTNEhZlO8lM4RUAqc4YkYg) - Welsh vegan chef and star of Dirty Sanchez. 
+* [So Vegan](https://www.youtube.com/channel/UCbtL081gMwgoxn3Oz76PyBw) - Vegan chefs.
+* [Vegan Gains](https://www.youtube.com/channel/UCr2eKhGzPhN5RPVk5dd5o3g) - A highly political vegan bodybuilding / fitness youtuber.
 
 
 ## License
