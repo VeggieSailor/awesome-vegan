@@ -26,6 +26,7 @@ Veganism is the practice of abstaining from the use of animal products, particul
 ## Games
 
 * [VeganOption](https://www.github.com/squeek502/VeganOption) - A Minecraft mod that seeks to add vegan alternatives to all Minecraft mob/animal products.
+* [Vegan On a Desert Island](https://gitlab.com/voadi/voadi) - 2D adventure game about being a vegan on a desert island.
 
 ## Guides
 * [Plant Based News](https://www.plantbasednews.org/)
